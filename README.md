@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0e75b6&height=220&section=header&text=Muhammad%20Umar%20Hayat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20(SQA)%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B202C,100:6B2E3D&height=220&section=header&text=Muhammad%20Umar%20Hayat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20(SQA)%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Manual+QA+%7C+Web%2C+Mobile+%26+SaaS+Testing;API+Testing+%7C+Functional+%26+Regression+Testing;3%2B+Years+of+Breaking+Software+(So+Users+Don't+Have+To)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B202C&center=true&vCenter=true&width=650&lines=Manual+QA+%7C+Web%2C+Mobile+%26+SaaS+Testing;API+Testing+%7C+Functional+%26+Regression+Testing;3%2B+Years+of+Breaking+Software+(So+Users+Don't+Have+To)" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=umarhayatsqae&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=umarhayatsqae&label=Profile%20Views&color=4B202C&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Full--Time-success?style=for-the-badge" alt="Availability" />
 
 <br><br>
@@ -208,7 +208,7 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/📝_Test%20Cases-View%20Projects-0A66C2?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📝_Test%20Cases-View%20Projects-4B202C?style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🐛_Bug%20Reports-View%20Projects-CC0000?style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🔌_API%20Testing-View%20Projects-85EA2D?style=for-the-badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/📱_Mobile%20Testing-View%20Projects-8A2BE2?style=for-the-badge" /></a>
@@ -221,7 +221,7 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Umar Hayat GitHub Stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&title_color=4B202C&icon_color=6B2E3D&text_color=333333&bg_color=FFFFFF&border_color=4B202C" alt=" Muhammad Umar Hayat GitHub Stats" width="500"/>
 
 </div>
 
@@ -275,6 +275,6 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 > *"Quality is not just about finding bugs — it's about delivering confidence."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B2E3D,100:4B202C&height=100&section=footer" width="100%"/>
 
 </div>
