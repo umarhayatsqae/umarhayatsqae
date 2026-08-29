@@ -221,12 +221,7 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Umar Hayat GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=umarhayatsqae&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhayatsqae&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Umar Hayat GitHub Stats" width="500"/>
 
 </div>
 
