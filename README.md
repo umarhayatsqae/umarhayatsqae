@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umar Hayat</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Umar Hayat</h1>
 
 <h3 align="center">
 Software Quality Assurance (SQA) Engineer | Manual QA | Web, Mobile & SaaS Testing | API Testing
