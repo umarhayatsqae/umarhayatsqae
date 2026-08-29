@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=umarhayat&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=umarhayatsqae&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Full--Time-success?style=for-the-badge" alt="Availability" />
 
 <br><br>
@@ -221,12 +221,12 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarhayat&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Umar Hayat GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarhayat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Umar Hayat GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarhayatsqae&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhayat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhayatsqae&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
