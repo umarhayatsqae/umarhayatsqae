@@ -221,7 +221,7 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&title_color=4B202C&icon_color=6B2E3D&text_color=333333&bg_color=FFFFFF&border_color=4B202C" alt="Umar Hayat GitHub Stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?  username=umarhayatsqae&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&title_color=4B202C&icon_color=6B2E3D&text_color=333333&bg_color=FFFFFF&border_color=4B202C" alt="Umar Hayat GitHub Stats" width="500"/>
 
 </div>
 
