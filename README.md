@@ -11,8 +11,8 @@
 
 <br><br>
 
-<a href="https://www.upwork.com/freelancers/~01f82fbe43248718c1?mp_source=share">
-  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="https://www.linkedin.com/in/muhammad-umar-hayat-752bbb414/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:umerhayar6023@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -221,7 +221,7 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&title_color=4B202C&icon_color=6B2E3D&text_color=333333&bg_color=FFFFFF&border_color=4B202C" alt=" Muhammad Umar Hayat GitHub Stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umarhayatsqae&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&title_color=4B202C&icon_color=6B2E3D&text_color=333333&bg_color=FFFFFF&border_color=4B202C" alt="Umar Hayat GitHub Stats" width="500"/>
 
 </div>
 
@@ -254,8 +254,8 @@ High-level scenarios mapped to functional requirements and real-world usage.
 
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/~01f82fbe43248718c1?mp_source=share">
-  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="https://www.linkedin.com/in/muhammad-umar-hayat-752bbb414/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:umerhayar6023@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
